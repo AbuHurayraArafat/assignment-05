@@ -12,3 +12,9 @@
   font-variation-settings:
   "wdth" 100;
 }
+
+.inter-font {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
