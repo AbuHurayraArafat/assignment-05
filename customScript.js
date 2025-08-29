@@ -12,6 +12,7 @@ function getElementId(id) {
 }
 
 // Heart Count
+
 const heartIcons = getElementsClass("heart-icon")
 
 for (let hearticon of heartIcons) {
